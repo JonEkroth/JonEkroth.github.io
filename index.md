@@ -5,7 +5,7 @@
 ### Completed Projects
 
 [Fast Food Home Delivery Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="food-delivery 6jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

@@ -19,8 +19,8 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Fast Food Delivery Analysis using Excel](http://example.com/)
+- [Massachusetts School System Analysis using Tableau](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)

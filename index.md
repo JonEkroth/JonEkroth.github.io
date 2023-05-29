@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Fast Food Delivery Analysis using Excel]([http://example.com/](https://www.linkedin.com/posts/jon-ekroth-3b57b634_activity-7062471934411714560-ehwj?utm_source=share&utm_medium=member_desktop))
+- [Fast Food Delivery Analysis using Excel(https://www.linkedin.com/posts/jon-ekroth-3b57b634_activity-7062471934411714560-ehwj?utm_source=share&utm_medium=member_desktop)
 - [Massachusetts School System Analysis using Tableau](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)

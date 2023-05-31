@@ -15,15 +15,6 @@
 [Project 3 Title](http://example.com/)
 <img src="images/Small_food_deliv.jpg?raw=true"/>
 
----
 
 
-
----
-
-
-
-
----
-
-<!-- Remove above link if you don't want to attibute -->
+<!--this is how you hide text -->

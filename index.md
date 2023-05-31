@@ -5,7 +5,7 @@
 ### Completed Projects
 
 - [Fast Food Delivery Analysis using Excel](https://www.linkedin.com/posts/jon-ekroth-3b57b634_activity-7062471934411714560-ehwj?utm_source=share&utm_medium=member_desktop)
-<img src="images/food-delivery 6.jpg?raw=true"/>
+<img src="images/food-delivery.jpg?raw=true"/>
 
 ---
 - [Massachusetts School System Analysis using Tableau](https://www.linkedin.com/posts/jon-ekroth-3b57b634_tableau-project-analysis-activity-7067904985077800961-VD0b?utm_source=share&utm_medium=member_desktop)

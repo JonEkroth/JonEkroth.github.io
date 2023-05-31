@@ -2,7 +2,7 @@
 
 ---
 
-### Completed Projects
+### Data Analysis Projects
 
 - [Fast Food Delivery Analysis using Excel](https://www.linkedin.com/posts/jon-ekroth-3b57b634_activity-7062471934411714560-ehwj?utm_source=share&utm_medium=member_desktop)
 <img src="images/small_food7.jpg?raw=true"/>

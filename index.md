@@ -12,7 +12,7 @@
 <img src="images/chalk_board.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Diabetes Patient Analysis using SQL]([http://example.com/](https://www.linkedin.com/posts/jon-ekroth-3b57b634_sql-hospital-dataanalytics-activity-7070775504189935616-ITgG?utm_source=share&utm_medium=member_desktop))
 <img src="images/Small_food_deliv.jpg?raw=true"/>
 
 

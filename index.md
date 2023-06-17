@@ -5,7 +5,7 @@
 ### Data Analysis Projects
 
 [Utah Jazz Analysis](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
-<img src="images/.png?raw=true"/>
+<img src="images/Top 16x9.png?raw=true"/>
 
 [Diabetes Patient Analysis using SQL](https://www.linkedin.com/posts/jon-ekroth-3b57b634_sql-hospital-dataanalytics-activity-7070775504189935616-ITgG?utm_source=share&utm_medium=member_desktop)
 <img src="images/emergency.png?raw=true"/>

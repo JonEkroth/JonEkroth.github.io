@@ -1,8 +1,8 @@
-## Data Project Portfolio
+## Data Analysis Projects
 
 ---
 
-### Data Analysis Projects
+
 
 [Utah Jazz Analysis using Tableau.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
 <img src="images/Top 16x9.png?raw=true"/>

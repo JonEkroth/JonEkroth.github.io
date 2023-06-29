@@ -1,5 +1,6 @@
 title: Jon Ekroth # your name here
-logo: "/images/face.png" # your photo here
+
+logo: "/images/face.png?raw=true" # your photo (or logo) here
 description: # your text below
   Data Analyst 
   <br><br>
@@ -13,7 +14,7 @@ plugins:
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 #title: Zeina Roz # your name (or website title) here
-#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+#
 #description: > # your text below (remove <br> elements if you don't need line breaks)
 #  It;s almost christmas 
 #  I want some pizza  <br><br>

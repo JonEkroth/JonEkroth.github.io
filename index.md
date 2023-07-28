@@ -5,6 +5,7 @@
 [HR attrition analysis using R.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
 <img src="images/person-leaving2.jpg?raw=true"/>
 
+
 [Utah Jazz Analysis using Tableau.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
 <img src="images/Top 16x9.png?raw=true"/>
 

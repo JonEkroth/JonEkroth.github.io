@@ -1,8 +1,8 @@
 ## Data Analysis Projects
 
 ---
-[Hr attrition.](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=KCMBuXhBQHmhZpbC%252BpbvPQ%253D%253D/?trackingId=KCMBuXhBQHmhZpbC%2BpbvPQ%3D%3D)
-<img src="images/person-leaving2.jpg?raw=true"/>
+[Analyzing Employee Attrition using R.](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=KCMBuXhBQHmhZpbC%252BpbvPQ%253D%253D/?trackingId=KCMBuXhBQHmhZpbC%2BpbvPQ%3D%3D)
+[<img src="images/person-leaving2.jpg?raw=true"/>](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=KCMBuXhBQHmhZpbC%252BpbvPQ%253D%253D/?trackingId=KCMBuXhBQHmhZpbC%2BpbvPQ%3D%3D)
 
 [Utah Jazz Analysis using Tableau.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
 <img src="images/Top 16x9.png?raw=true"/>

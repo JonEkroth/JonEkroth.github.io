@@ -2,9 +2,9 @@
 
 ---
 
-(https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=HwnsDsm8Sh%252B9Kd5IV%252FOfjA%253D%253D/?trackingId=HwnsDsm8Sh%2B9Kd5IV%2FOfjA%3D%3D)
+[HR attrition analysis using R.](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=HwnsDsm8Sh%252B9Kd5IV%252FOfjA%253D%253D/?trackingId=HwnsDsm8Sh%2B9Kd5IV%2FOfjA%3D%3D)
 <img src="images/person-leaving2.jpg?raw=true"/>
-[HR attrition analysis using R.]
+
 
 
 [Utah Jazz Analysis using Tableau.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)

@@ -2,7 +2,7 @@
 
 ---
 
-[HR attrition analysis using R.](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=HwnsDsm8Sh%252B9Kd5IV%252FOfjA%253D%253D/?trackingId=HwnsDsm8Sh%2B9Kd5IV%2FOfjA%3D%3D)
+[HR attrition analysis using R.]([https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=HwnsDsm8Sh%252B9Kd5IV%252FOfjA%253D%253D/?trackingId=HwnsDsm8Sh%2B9Kd5IV%2FOfjA%3D%3D](https://www.linkedin.com/posts/jonekroth_using-r-to-answer-questions-about-employee-activity-7090502718829543424-Z_vK?utm_source=share&utm_medium=member_desktop))
 <img src="images/person-leaving2.jpg?raw=true"/>
 
 

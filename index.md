@@ -1,6 +1,12 @@
 ## Data Analysis Projects
 
 ---
+<![Utah Jazz Analysis using Tableau.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
+<img src="images/Top 16x9.png?raw=true"/>>
+
+[Using SQL to analyze The World Bank](https://www.linkedin.com/posts/jonekroth_using-sql-to-analyze-the-world-bank-and-its-activity-7094011426956038144-WgSx?utm_source=share&utm_medium=member_desktop),<!img src=>
+
+
 [Analyzing Employee Attrition using R.](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=KCMBuXhBQHmhZpbC%252BpbvPQ%253D%253D/?trackingId=KCMBuXhBQHmhZpbC%2BpbvPQ%3D%3D)
 [<img src="images/person-leaving2.jpg?raw=true"/>](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=KCMBuXhBQHmhZpbC%252BpbvPQ%253D%253D/?trackingId=KCMBuXhBQHmhZpbC%2BpbvPQ%3D%3D)
 

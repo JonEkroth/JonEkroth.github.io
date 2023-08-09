@@ -1,7 +1,7 @@
 ## Data Analysis Projects
 
 ---
-[Mining Analysis Using R](https://www.linkedin.com/posts/jonekroth_using-python-to-find-insights-in-data-activity-7081704668313079808-DIvq?utm_source=share&utm_medium=member_desktop)<img src="images/ ?raw=true"/>
+[Mining Analysis Using R](https://www.linkedin.com/posts/jonekroth_using-python-to-find-insights-in-data-activity-7081704668313079808-DIvq?utm_source=share&utm_medium=member_desktop)<img src="images/miningoperations-2.jpg?raw=true"/>
 
 [SQL](https://www.linkedin.com/posts/jonekroth_using-sql-to-analyze-the-world-bank-and-its-activity-7094011426956038144-WgSx?utm_source=share&utm_medium=member_desktop),<img src="images/penny picture2.jpg?raw=true"/>
 

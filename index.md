@@ -3,7 +3,7 @@
 ---
 [Mining Analysis Using R](https://www.linkedin.com/posts/jonekroth_using-python-to-find-insights-in-data-activity-7081704668313079808-DIvq?utm_source=share&utm_medium=member_desktop)<img src="images/miningoperations-2.jpg?raw=true"/>
 
-[SQL](https://www.linkedin.com/posts/jonekroth_using-sql-to-analyze-the-world-bank-and-its-activity-7094011426956038144-WgSx?utm_source=share&utm_medium=member_desktop),<img src="images/penny picture2.jpg?raw=true"/>
+[SQL](https://www.linkedin.com/posts/jonekroth_using-sql-to-analyze-the-world-bank-and-its-activity-7094011426956038144-WgSx?utm_source=share&utm_medium=member_desktop)<img src="images/penny picture2.jpg?raw=true"/>
 
 
 [Analyzing Employee Attrition using R.](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=KCMBuXhBQHmhZpbC%252BpbvPQ%253D%253D/?trackingId=KCMBuXhBQHmhZpbC%2BpbvPQ%3D%3D)

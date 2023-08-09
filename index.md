@@ -1,10 +1,9 @@
 ## Data Analysis Projects
 
 ---
-<![Utah Jazz Analysis using Tableau.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
-<img src="images/Top 16x9.png?raw=true"/>>
+[Mining Analysis Using R](https://www.linkedin.com/posts/jonekroth_using-python-to-find-insights-in-data-activity-7081704668313079808-DIvq?utm_source=share&utm_medium=member_desktop)<img src="images/ https://www.thermofisher.com/blog/mining/how-to-improve-mining-and-mineral-operations-heres-a-guide/.png?raw=true"/>
 
-[Using SQL to analyze The World Bank](https://www.linkedin.com/posts/jonekroth_using-sql-to-analyze-the-world-bank-and-its-activity-7094011426956038144-WgSx?utm_source=share&utm_medium=member_desktop),<img src="penny picture2.jpg?raw=true">
+[Using SQL to analyze The World Bank](https://www.linkedin.com/posts/jonekroth_using-sql-to-analyze-the-world-bank-and-its-activity-7094011426956038144-WgSx?utm_source=share&utm_medium=member_desktop),<img src="images/penny picture2.jpg?raw=true"/>
 
 
 [Analyzing Employee Attrition using R.](https://www.linkedin.com/pulse/analyzing-employee-attrition-using-r-jon-ekroth%3FtrackingId=KCMBuXhBQHmhZpbC%252BpbvPQ%253D%253D/?trackingId=KCMBuXhBQHmhZpbC%2BpbvPQ%3D%3D)

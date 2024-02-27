@@ -12,7 +12,7 @@
 [Utah Jazz Analysis using Tableau.](https://www.linkedin.com/pulse/interview-data-analyst-report-utah-jazz-jon-ekroth)
 <img src="images/Top 16x9.png?raw=true"/>
 
-[Diabetes Patient Analysis using SQL.](https://www.linkedin.com/posts/jon-ekroth-3b57b634_sql-hospital-dataanalytics-activity-7070775504189935616-ITgG?utm_source=share&utm_medium=member_desktop)
+[Diabetes Patient Analysis using SQL.](https://www.linkedin.com/pulse/diabetes-patient-analysis-jon-ekroth/?trackingId=3ZRNOVGNR1e3nircrFn9lA%3D%3D)
 <img src="images/emergency.png?raw=true"/>
 
 - [Massachusetts School System Analysis using Tableau.](https://www.linkedin.com/posts/jonekroth_tableau-project-analysis-activity-7067904985077800961-KG_3?utm_source=share&utm_medium=member_desktop)

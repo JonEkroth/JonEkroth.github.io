@@ -6,7 +6,13 @@ description: # your text below
   <br><br>
   Excel|SQL|Tableau
   <br><br>
-  # <a href="https://www.linkedin.com/in/jon-ekroth-3b57b634/">/images/In Logo.jpg?raw=true</a> 
+  # <a href="https://www.linkedin.com/in/jon-ekroth-3b57b634/">/images/In Logo.jpg?raw=true</a>
+
+  description: # your text below
+  Resume 
+  <br><br>
+  
+   <pdf/Resume 1-21-24.pdf?raw=true</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

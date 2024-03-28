@@ -2,7 +2,7 @@
 
 ---
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7178135742974476289" height="693" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 [Data Analyst Job Posting Data ](https://www.linkedin.com/posts/jonekroth_data-analyst-job-board-post-insights-activity-7178135743662309376-Mpev?utm_source=share&utm_medium=member_desktop)
 <img src=""/>
